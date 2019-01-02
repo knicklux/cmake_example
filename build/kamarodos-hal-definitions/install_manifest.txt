@@ -1,0 +1,4 @@
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/kamarodos-hal-definitions/../../install/include/params.h
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/kamarodos-hal-definitions/../../install/cmake/kamarodos-hal-definitionsConfig.cmake
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/kamarodos-hal-definitions/../../install/cmake/kamarodos-hal-definitionsConfigVersion.cmake
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/kamarodos-hal-definitions/../../install/cmake/export_kamarodos-hal-definitions.cmake

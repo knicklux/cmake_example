@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/src/kamarodos-core/platforms/linux_i386/hal-bare-metal/include/hw_time.h
+params.h
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/src/kamarodos-core/platforms/linux_i386/hal-bare-metal/include/params.h
+
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/src/kamarodos-core/platforms/linux_i386/hal-bare-metal/src/hw_time.cpp
+hw_time.h
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/src/kamarodos-core/platforms/linux_i386/hal-bare-metal/src/hw_time.h
+

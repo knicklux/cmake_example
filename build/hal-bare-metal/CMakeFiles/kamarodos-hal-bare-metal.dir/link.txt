@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkamarodos-hal-bare-metal.a  CMakeFiles/kamarodos-hal-bare-metal.dir/src/hw_time.cpp.o
+/usr/bin/ranlib libkamarodos-hal-bare-metal.a

@@ -1,0 +1,7 @@
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/hal-bare-metal/CMakeFiles/install/strip.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/hal-bare-metal/CMakeFiles/edit_cache.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/hal-bare-metal/CMakeFiles/kamarodos-hal-bare-metal.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/hal-bare-metal/CMakeFiles/rebuild_cache.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/hal-bare-metal/CMakeFiles/list_install_components.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/hal-bare-metal/CMakeFiles/install/local.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/hal-bare-metal/CMakeFiles/install.dir

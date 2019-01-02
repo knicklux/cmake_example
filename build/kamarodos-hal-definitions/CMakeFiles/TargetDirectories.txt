@@ -1,0 +1,6 @@
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/kamarodos-hal-definitions/CMakeFiles/edit_cache.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/kamarodos-hal-definitions/CMakeFiles/install/strip.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/kamarodos-hal-definitions/CMakeFiles/rebuild_cache.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/kamarodos-hal-definitions/CMakeFiles/list_install_components.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/kamarodos-hal-definitions/CMakeFiles/install/local.dir
+/home/knicklux/Nextcloud_knicklux/Documents/Development/kamarodos-test/build/kamarodos-hal-definitions/CMakeFiles/install.dir
